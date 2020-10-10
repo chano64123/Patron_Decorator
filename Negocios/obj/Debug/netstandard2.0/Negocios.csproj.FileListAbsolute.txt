@@ -1,0 +1,8 @@
+C:\Users\dstro\source\repos\Negocios\bin\Debug\netstandard2.0\Negocios.deps.json
+C:\Users\dstro\source\repos\Negocios\bin\Debug\netstandard2.0\Negocios.dll
+C:\Users\dstro\source\repos\Negocios\bin\Debug\netstandard2.0\Negocios.pdb
+C:\Users\dstro\source\repos\Negocios\obj\Debug\netstandard2.0\Negocios.AssemblyInfoInputs.cache
+C:\Users\dstro\source\repos\Negocios\obj\Debug\netstandard2.0\Negocios.AssemblyInfo.cs
+C:\Users\dstro\source\repos\Negocios\obj\Debug\netstandard2.0\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\dstro\source\repos\Negocios\obj\Debug\netstandard2.0\Negocios.dll
+C:\Users\dstro\source\repos\Negocios\obj\Debug\netstandard2.0\Negocios.pdb
